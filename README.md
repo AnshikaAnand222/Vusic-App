@@ -1,12 +1,12 @@
 # Vusic 
 
 A music app created in JavaScript- React.js, Node.js
+
 Deployed on Netlify
 
 # Try it out
 
-listenvusicwith.us
-
+[listenvusicwith.us](listenvusicwith.us)
 
 
 # Getting Started with Create React App
