@@ -1,6 +1,7 @@
 # Vusic 
 
-A music app created in React.js with cool user interface
+A music app created in JavaScript- React.js, Node.js
+Deployed on Netlify
 
 # Try it out
 
